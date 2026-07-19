@@ -1,0 +1,14 @@
+yfinance
+requests
+pandas
+sqlalchemy
+tqdm
+beautifulsoup4
+lxml
+anthropic
+openai
+jupyter
+notebook
+matplotlib
+numpy
+nbformat

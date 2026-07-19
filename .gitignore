@@ -1,0 +1,10 @@
+# Data & secrets
+data/
+*.env
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
