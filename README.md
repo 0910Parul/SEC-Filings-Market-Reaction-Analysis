@@ -28,7 +28,7 @@ Markets are supposed to price in news instantly — but not all 8-K events are e
 | `NB3_Market_Reaction.ipynb` | Calculates **post-event return windows** to quantify the market's reaction. |
 | `NB4_Watchlist_Output.ipynb` | **Scores and ranks** events into a final watchlist. |
 
-Core logic is modularized under [`src/`](src): `edgar.py` (filings), `prices.py` (market data), `classifier.py` (event tagging), `reactions.py` (return windows), `scoring.py` (ranking), plus `db.py` / `config.py`.
+The working pipeline lives in the [`notebooks/`](notebooks). [`src/`](src) is a lightweight module scaffold set up for refactoring that notebook logic into reusable functions.
 
 ---
 
