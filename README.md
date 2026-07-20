@@ -68,4 +68,4 @@ pip install -r requirements.txt
 
 Team project (MSBA, Carlson School of Management). Presented here for portfolio purposes.
 
-Built by **Parul Chaudhary** · [LinkedIn](#) · [Email](mailto:parul.jaswant@gmail.com)
+Built by **Parul Chaudhary** · [LinkedIn](https://www.linkedin.com/in/parul-chaudhary-39269b213) · [Email](mailto:parul.jaswant@gmail.com)
