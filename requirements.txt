@@ -12,3 +12,6 @@ notebook
 matplotlib
 numpy
 nbformat
+streamlit
+plotly
+python-dotenv
