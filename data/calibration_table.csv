@@ -1,0 +1,22 @@
+feature,value,n_delayed,n_non_delayed,pct_delayed,pct_non_delayed,lift,ci_95_lo,ci_95_hi,note
+broad_category,Acquisition/Disposition,1,2,2.9,0.5,6.26,0.0,25.03,Strong
+broad_category,Governance,3,11,8.6,2.5,3.41,0.0,9.39,Strong
+baseline_importance_tier,high,18,140,51.4,32.0,1.61,1.04,2.22,Moderate
+broad_category,Regulatory,14,117,40.0,26.7,1.5,0.9,2.25,Moderate
+broad_category,Executive Change,7,65,20.0,14.8,1.35,0.57,2.42,Moderate
+numeric_density_tier,low,15,143,42.9,32.6,1.31,0.85,1.89,Moderate
+llm_importance_tier,low,19,195,54.3,44.5,1.22,0.82,1.58,
+numeric_density_tier,high,13,144,37.1,32.9,1.13,0.64,1.63,
+forward_looking_tier,mid,35,438,100.0,100.0,1.0,1.0,1.0,
+llm_importance_tier,high,5,63,14.3,14.4,0.99,0.35,2.01,
+broad_category,Other,1,16,2.9,3.7,0.78,0.0,2.78,
+llm_importance_tier,mid,11,180,31.4,41.1,0.76,0.42,1.18,
+baseline_importance_tier,low,9,149,25.7,34.0,0.76,0.34,1.23,
+broad_category,Voting Results,2,37,5.7,8.4,0.68,0.0,1.85,
+baseline_importance_tier,mid,8,149,22.9,34.0,0.67,0.28,1.11,
+numeric_density_tier,mid,7,151,20.0,34.5,0.58,0.23,0.98,
+broad_category,Earnings,7,161,20.0,36.8,0.54,0.22,0.95,
+broad_category,Financial Obligation,0,4,0.0,0.9,0.0,0.0,0.0,Anti-signal
+broad_category,Material Agreement,0,25,0.0,5.7,0.0,0.0,0.0,Anti-signal
+forward_looking_tier,low,0,0,0.0,0.0,,,,
+forward_looking_tier,high,0,0,0.0,0.0,,,,
